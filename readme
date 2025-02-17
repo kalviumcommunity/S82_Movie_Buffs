@@ -1,0 +1,31 @@
+
+Project Title:
+Movie Buffs - A Movie Review Website
+
+Project Overview:
+Movie Buffs is a movie review website where users can rate, review, and explore movies. After signing up and logging in, users can see a list of movies, each with an average rating based on all users' votes. When users rate a movie or write a review, their input directly affects how the movie is ranked in the list. For example, a highly-rated movie will move higher in the rankings, while a poorly-rated movie will drop down. This creates a dynamic and up-to-date list that changes based on user input.
+
+Users can filter the movie list by genre, rating, or release year to easily find movies that match their preferences. The more users rate and review movies, the more personalized the movie list becomes for everyone. Users can also search for movies by title, genre, or year to quickly find specific films.
+
+Additionally, users can leave detailed reviews about the movies, sharing their thoughts, opinions, and recommendations. There will also be a leaderboard that displays the highest-rated movies based on user votes, showcasing the most popular films in the community. This will allow users to see what others consider the best movies, as well as discover new films to watch.
+
+Key Features:
+
+User Login: Users can create an account and log in to the website.
+Movie List: A dynamic list of movies that changes based on user ratings and reviews.
+Rating System: Users can rate movies from 1-10, and each movie’s average rating is displayed.
+Review System: Users can write and read detailed reviews for movies.
+Search and Filter: Users can search for movies by title, genre, or year and filter the movie list based on different criteria.
+Leaderboard: A ranking of the highest-rated movies, showing which films are the most popular based on user input.
+CRUD Operations: Users can add, update, and delete their own reviews for movies.
+Tech Stack:
+
+Frontend: React, Vite (for faster building), and CSS for styling.
+Backend: Node.js with Express (for handling server-side logic) and MongoDB (for storing data).
+Authentication: JWT (JSON Web Tokens) for securely logging in users.
+Deployment: Netlify (for deploying the frontend), Heroku or AWS (for deploying the backend).
+API Testing: Postman (for testing API endpoints to ensure they work correctly).
+Why This Project:
+I chose this project because it’s fun and allows me to build a real-world application where user interaction directly impacts the content. It fits the course requirements by demonstrating all the important concepts like user authentication, building a backend API, working with a database, and deploying both the frontend and backend. Additionally, this project gives me the opportunity to create a dynamic, user-driven platform that encourages interaction and collaboration through ratings and reviews.
+
+Building this project will help me learn how to manage dynamic data, create and test APIs, implement user authentication, and deploy a full-stack application. Plus, it’s engaging and easy for users to enjoy while providing practical experience with the technologies we’re learning.
